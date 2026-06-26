@@ -1,0 +1,7 @@
+============================================
+queue related information
+============================================
+
+Why this happened: QUEUE_CONNECTION=database (the original setting) stores jobs in a DB table and requires php artisan queue:work to dispatch them. sync bypasses the queue entirely and sends immediately — perfect for a demo.
+
+Option B (production-correct, useful to know for the video): run php artisan queue:work in a third terminal alongside php artisan serve and npm run dev. That's the real-world setup, and it's worth mentioning in the demo narration to show you understand the architecture.

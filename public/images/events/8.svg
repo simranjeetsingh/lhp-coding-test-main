@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#374151"/>
+      <stop offset="100%" style="stop-color:#1e40af"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#g)"/>
+  <rect x="280" y="150" width="240" height="160" rx="4" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+  <text x="400" y="240" fill="white" font-size="52" text-anchor="middle" font-family="sans-serif">🖼️</text>
+  <text x="400" y="345" fill="white" font-size="28" font-weight="bold" text-anchor="middle" font-family="sans-serif">Exhibition</text>
+  <text x="400" y="380" fill="rgba(255,255,255,0.7)" font-size="15" text-anchor="middle" font-family="sans-serif">Art · Culture · Expression</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4338ca"/>
+      <stop offset="100%" style="stop-color:#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#g)"/>
+  <line x1="250" y1="200" x2="400" y2="250" stroke="rgba(255,255,255,0.2)" stroke-width="2"/>
+  <line x1="550" y1="200" x2="400" y2="250" stroke="rgba(255,255,255,0.2)" stroke-width="2"/>
+  <line x1="400" y1="150" x2="400" y2="250" stroke="rgba(255,255,255,0.2)" stroke-width="2"/>
+  <circle cx="250" cy="200" r="18" fill="rgba(255,255,255,0.2)"/>
+  <circle cx="550" cy="200" r="18" fill="rgba(255,255,255,0.2)"/>
+  <circle cx="400" cy="150" r="18" fill="rgba(255,255,255,0.2)"/>
+  <text x="400" y="265" fill="white" font-size="52" text-anchor="middle" font-family="sans-serif">🌐</text>
+  <text x="400" y="350" fill="white" font-size="28" font-weight="bold" text-anchor="middle" font-family="sans-serif">Networking</text>
+  <text x="400" y="385" fill="rgba(255,255,255,0.7)" font-size="15" text-anchor="middle" font-family="sans-serif">Connect · Grow · Discover</text>
+</svg>

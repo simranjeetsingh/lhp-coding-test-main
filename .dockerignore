@@ -1,0 +1,10 @@
+node_modules
+vendor
+public/build
+storage/app/public
+storage/framework
+storage/logs
+bootstrap/cache
+database/database.sqlite
+.env
+.git
